@@ -1,7 +1,7 @@
 # Finance Agent 
 Financial AI agent with the help of Phidata and open source llm models
 
-**Note : You need to create Phidata and Groq api keys for this agent. Please create your api key and create a .env file in your working environment and mention the api keys there.**
+**Note : You need to create [Phidata](https://www.phidata.com/) and [Groq](https://groq.com/) api keys for this agent. Please create your api key and create a .env file in your working environment and mention the api keys there.**
 
 
 ### 🧾 Description
